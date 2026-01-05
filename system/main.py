@@ -1,1 +1,1 @@
-asdasdas
+print("IDK")
